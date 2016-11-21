@@ -11,9 +11,7 @@ trait AppConstants {
   val ConstantBigSize = 15
   val ConstantMediumSize = 10
   val ConstantSmallSize = 5
-  val ConstantColorNode = "FF2A00"
+  val ConstantColorNode = "#FF2A00"
   val ConstantStatusEndpoint = "status"
-  val ConstantMesosDNSEndpoint = "mesosDNSEndpoint"
-
-
+  val ConstantMesosDNSEndpoint = "mesosdns.mesosDNSEndpoint"
 }
